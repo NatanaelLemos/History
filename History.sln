@@ -7,6 +7,55 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "History-Master", "History\H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SILIB", "..\SILIB\SILIB\SILIB.csproj", "{6B17B95F-104F-4782-877A-3AB385F103FC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Res", "Res", "{5FA46E2C-CBDE-4F6E-945A-EFBAA78BFEC8}"
+	ProjectSection(SolutionItems) = preProject
+		Res\icon.ico = Res\icon.ico
+		Res\icon.png = Res\icon.png
+		Res\map.png = Res\map.png
+		Res\Relatório Final - Iniciação Científica - Natanael Tavares Lemos - Fevereiro_2014.docx = Res\Relatório Final - Iniciação Científica - Natanael Tavares Lemos - Fevereiro_2014.docx
+		Res\SILIB.dll = Res\SILIB.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{E2E40ED8-93D6-4363-AEA8-7B42FB487098}"
+	ProjectSection(SolutionItems) = preProject
+		Res\Resources\1453a.png = Res\Resources\1453a.png
+		Res\Resources\1453b.jpg = Res\Resources\1453b.jpg
+		Res\Resources\1455 - 1485a.jpg = Res\Resources\1455 - 1485a.jpg
+		Res\Resources\1455 - 1485b.jpg = Res\Resources\1455 - 1485b.jpg
+		Res\Resources\1603a.png = Res\Resources\1603a.png
+		Res\Resources\1603b.jpg = Res\Resources\1603b.jpg
+		Res\Resources\1714a.png = Res\Resources\1714a.png
+		Res\Resources\1714b.png = Res\Resources\1714b.png
+		Res\Resources\DataBase.mdb = Res\Resources\DataBase.mdb
+		Res\Resources\E1453BrasaoAragao.jpg = Res\Resources\E1453BrasaoAragao.jpg
+		Res\Resources\E1453BrasaoCastela.jpg = Res\Resources\E1453BrasaoCastela.jpg
+		Res\Resources\E1516BrasaoHabsburgo.JPG = Res\Resources\E1516BrasaoHabsburgo.JPG
+		Res\Resources\E1700BrasaoBourbon.jpg = Res\Resources\E1700BrasaoBourbon.jpg
+		Res\Resources\F1453BrasaoValois.jpg = Res\Resources\F1453BrasaoValois.jpg
+		Res\Resources\F1453CarlosVII.jpg = Res\Resources\F1453CarlosVII.jpg
+		Res\Resources\F1589BrasaoBourbon.jpg = Res\Resources\F1589BrasaoBourbon.jpg
+		Res\Resources\F1789LuisXVI.jpg = Res\Resources\F1789LuisXVI.jpg
+		Res\Resources\F1789TomadaBastilha.jpg = Res\Resources\F1789TomadaBastilha.jpg
+		Res\Resources\I1455GuerraRosas.jpg = Res\Resources\I1455GuerraRosas.jpg
+		Res\Resources\I1455Rosas.jpg = Res\Resources\I1455Rosas.jpg
+		Res\Resources\I1485BrasaoTudor.jpg = Res\Resources\I1485BrasaoTudor.jpg
+		Res\Resources\I1603BatalhaNaseby.jpg = Res\Resources\I1603BatalhaNaseby.jpg
+		Res\Resources\I1603BrasaoStuart.jpg = Res\Resources\I1603BrasaoStuart.jpg
+		Res\Resources\I1714BrasaoGraBretanha.jpg = Res\Resources\I1714BrasaoGraBretanha.jpg
+		Res\Resources\P1453BrasaoAvis.jpg = Res\Resources\P1453BrasaoAvis.jpg
+		Res\Resources\P1453NauCabral.jpg = Res\Resources\P1453NauCabral.jpg
+		Res\Resources\P1581BrasaoHabsburgo.JPG = Res\Resources\P1581BrasaoHabsburgo.JPG
+		Res\Resources\P1581FilipeI.jpg = Res\Resources\P1581FilipeI.jpg
+		Res\Resources\P1640AclamacaoJoaoIV.jpg = Res\Resources\P1640AclamacaoJoaoIV.jpg
+		Res\Resources\P1640BrasaoBraganca.jpg = Res\Resources\P1640BrasaoBraganca.jpg
+		Res\Resources\S1453BrasãoHabsburgo.JPG = Res\Resources\S1453BrasãoHabsburgo.JPG
+		Res\Resources\S1740BrasaoHabsburgoLorena.jpg = Res\Resources\S1740BrasaoHabsburgoLorena.jpg
+		Res\Resources\S1740CarlosVII.jpg = Res\Resources\S1740CarlosVII.jpg
+		Res\Resources\S1740FranciscoI.jpg = Res\Resources\S1740FranciscoI.jpg
+		Res\Resources\SILIB.dll = Res\Resources\SILIB.dll
+		Res\Resources\Thumbs.db = Res\Resources\Thumbs.db
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +73,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2E40ED8-93D6-4363-AEA8-7B42FB487098} = {5FA46E2C-CBDE-4F6E-945A-EFBAA78BFEC8}
 	EndGlobalSection
 EndGlobal
